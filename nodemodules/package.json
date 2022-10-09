@@ -1,0 +1,20 @@
+{
+  "name": "nodemodules",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Catalizcs",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.10.1",
+    "fast-speedtest-api": "^0.3.2",
+    "pidusage": "^3.0.0",
+    "sagiri": "^3.2.4",
+    "systeminformation": "^5.12.6",
+    "tesseract.js": "^3.0.3",
+    "wikijs": "^6.3.3"
+  }
+}
